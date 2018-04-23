@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+}
+
+.success {
+  font-size: 3em;
+  line-height: 1.5;
+  margin: 8px auto;
+  display: inline-block;
+}
+
+.buttons {
+  margin: 8px auto;
+  display: inline-block;
+}
+
+button {
+  margin: 0 20px;
+  padding: 8px 24px;
+  font-size: 1em;
+  line-height: 1.2;
+  background-color: rgb(37, 196, 161);
+  border-radius: 5px;
+}
